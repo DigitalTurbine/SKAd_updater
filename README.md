@@ -5,8 +5,8 @@ SKAdNetwork ID auto updater
 ## Install
 
 ##### Using Homebrew:
-    brew tap fyber-engineering/skad_updater
-    brew install skad_updater
+    brew tap digitalturbine/skad_updater
+    brew install digitalturbine/skad_updater/skad_updater
 
 ## Use
 
@@ -15,7 +15,7 @@ SKAdNetwork ID auto updater
     skad_updater ( (--help | -h) | (--show_networks) | --plist_file_path plist-file-path (--network_list <comma-separated-network-names> | --pod_file_path <pod-file-path>) [--dry_run] )
 
 ### Description
- Pull the most up-to-date SKAdNetworks from https://github.com/fyber-engineering/SKAdNetworks and updates the info.plist appropriately.
+ Pull the most up-to-date SKAdNetworks from https://github.com/DigitalTurbine/SKAdNetworks and updates the info.plist appropriately.
 
  The list of required networks can be requested in several ways:
 
