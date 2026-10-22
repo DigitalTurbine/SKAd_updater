@@ -1,7 +1,7 @@
 class SkadUpdater < Formula
   desc "SKAdNetworks Updater"
-  homepage "https://github.com/fyber-engineering/SKAd_updater/"
-  url "https://github.com/fyber-engineering/SKAd_updater/releases/download/${PROJECT_VERSION}/${PROJECT_NAME}-${PROJECT_VERSION}.tar.gz"
+  homepage "https://github.com/DigitalTurbine/SKAd_updater/"
+  url "https://github.com/DigitalTurbine/SKAd_updater/releases/download/${PROJECT_VERSION}/${PROJECT_NAME}-${PROJECT_VERSION}.tar.gz"
   sha256 "${SHA}"
   license "MIT"
 
